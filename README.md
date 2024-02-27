@@ -1,6 +1,6 @@
 # Hydraulic-Cylinder
 Solidworks design of an hydraulic cylinder
-## Render:
+## Render
 ![Hydraulic Cylinder](Images/Visualize%20full%20body/Visualize%20full%20body.JPG)
 ## Full Body Assembly
 ---
