@@ -2,7 +2,7 @@
 Solidworks design of an hydraulic cylinder
 
 ## Render
-![Hydraulic Cylinder](Images/Visualize_full_body/Visualize%20full%20body.JPG)
+![Hydraulic Cylinder](https://github.com/Ay-source/Hydraulic-Cylinder/blob/main/Images/Visualize_full_body/Visualize%20full%20body.jpg)
 
 ## Full Body Assembly
 ---
